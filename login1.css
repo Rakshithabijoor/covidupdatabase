@@ -1,0 +1,24 @@
+#login{
+    height: 75vh;
+    width: 60vh;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 133vh;
+}
+#login2{
+    position: absolute;
+   left: -95vh;
+   top:16vh;
+   border: 4px solid black;
+   padding: 23px;
+   border-radius: 34px;
+   font-size: x-large;
+}
+#log66{
+    position: absolute;
+    left: 145vh;
+}
+#log65{
+     position: absolute;
+    left: 105vh;
+}

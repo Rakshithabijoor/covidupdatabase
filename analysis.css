@@ -1,0 +1,273 @@
+.banner {
+    width: 123vh;
+    height: 93vh;
+}
+#check{
+    font-weight: 200;
+    color:rgb(0, 0, 0);
+    font-size: 33px;
+    background-color: rgba(95, 158, 160, 0.055);
+}
+#aboutus{
+    background-image: url("https://thefederal.com/file/2020/04/examining-coronavirus-covid-19-medical-samples-on-kits-novel-corona-picture-id1213671473-696x435.jpg");
+  color: rgb(255, 228, 196);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(95, 158, 160, 0.445);
+}
+.title34{
+    width:50vh;
+    height:50vh;
+    position: absolute;
+    left:1012px;
+    top:36px;
+    animation-name: rotate;
+    animation-duration: 7s;
+    animation-iteration-count: initial;
+    
+}
+#cpy{
+    color: rgb(240, 214, 214);
+    font-size: 12px;
+}
+#btttn{
+position: absolute;
+top: 292px;
+left: 850px;
+
+
+   
+}
+#neew{
+    background-color: red;
+}
+#plasma0{
+    padding-top: 43px;
+    height:53vh;
+    width:103vh;
+}
+#plasma1{
+    position: absolute;
+    left:105vh;
+    top:13vh;
+    color:white;
+    padding: 13px;
+    border-radius: 24px;
+    background-color:rgba(255, 0, 0, 0.541);
+}
+#plasma2{
+    position: relative;
+    left:14px;
+    margin:34px;
+}
+#plasma3{
+    padding: 3px;
+    margin: 3px;
+}
+#plasma4{
+    margin:13px;
+    padding-right: 14px;
+    position: relative;
+    top:13px;
+}
+#plasma5{
+    position: absolute;
+    left:163vh;
+    top:14vh;
+}
+#plasma6{
+    position: absolute;
+    left:165vh;
+    top:10vh;
+}
+#relief0{
+    color: cornsilk;
+    margin: 34px;
+}
+#relief1{
+    border-radius: 14px;
+    background:linear-gradient(blue,black);
+    padding: 15px;
+}
+#relief2{
+    
+    background-image: url("https://derek4messiah.files.wordpress.com/2011/03/1poor.jpg");
+    background-size: cover;
+    font-size: larger;
+    line-height: 42px;
+    color:white;
+    width:54vh;
+    padding: 12px;
+    position: absolute;
+    left: 65vh;
+    top:18vh;
+    border-radius: 19px;
+}
+#raksh{
+    width:56vh;
+    height:50vh;
+}
+#relief3
+{
+    width: 50vh;
+    height: 10vh;
+}
+#relief4{
+    background-color: lime;
+    border-radius: 7px;
+    width:123px;
+    margin:12px;
+}
+#relief5{
+    width: 60vh;
+    position:absolute;
+    top:13vh;
+    left:115vh;
+}
+#fact0{
+    color:white;
+    font-size: 25px;
+    position: absolute;
+    top: 54px;
+}
+#fact1{
+    width:90vh;
+    height: auto;
+    position: absolute;
+    left:215px;
+    top:158px;
+    border-radius: 14px;
+}
+#fact3{
+    position: absolute;
+    left:125px;
+    top:580px;
+    border-radius: 24px;
+
+}
+
+#fact6{
+     position: absolute;
+    left:835px;
+    top:148px;
+    border-radius: 94px;
+
+}
+#fact8{
+    float:right;
+}
+#admin1{
+    margin: 34px;
+    border-radius: 45px;
+}
+#title12{
+    position: absolute;
+    left:828px;
+    top:222px;
+    animation-name: rotate;
+    animation-duration: 7s;
+    animation-iteration-count: initial;
+    animation-delay: 2s;
+
+}
+@keyframes rotate{
+    0% {
+       transform: rotateZ(0deg);
+    }
+    100%{
+       transform: rotateZ(360deg);
+    }
+}
+#title13{
+    width:80vh;
+    height:40vh;
+    position: absolute;
+    left:832px;
+    top:349px;
+    
+
+}
+
+#about{
+    background-color: #ffebcd65;
+    border: 1px solod rgba(255, 228, 196, 0.452);
+    border-radius: 34px;
+    padding: 33px;
+}
+#updates{
+    background-image: url("https://www.thehindu.com/news/national/hmjmdi/article32704089.ece/ALTERNATES/LANDSCAPE_1200/HEALTH-CORONAVIRUSVALNEVA-VACCINE");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#updates1{
+    background-color:rgba(255, 255, 255, 0.123);
+    border: 1px solod rgba(255, 228, 196, 0.452);
+    border-radius: 34px;
+    padding: 33px;
+    color:white;
+}
+
+
+#stories{
+    font-size: xx-large;
+    position: relative;
+    left: 459px;
+    padding: 35px ;
+    color: red;
+}
+
+   
+
+
+.title15{
+    position: absolute;
+    left: 850px;
+    bottom: 30px;
+}
+#aboutus1{
+    background-image: url("https://lh3.googleusercontent.com/proxy/RMz_wjYCr8HEG_YrSJiGNtsqtaLI49DI1-JbolVsx5LFBFOWte5P4NDKuUXpIUvjmYxHHLPEfIHTkR_m1iToc0fE6B3peR7I6XEbcOOYtZX3zNmVoB9ccg");
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#about1{
+    background-color: #ffebcd65;
+    border: 1px solod rgba(255, 228, 196, 0.452);
+    border-radius: 34px;
+    padding: 33px;
+}
+.title111{
+    background-image: url("https://i1.wp.com/ytimg.googleusercontent.com/vi/2VUQ-q7knkk/mqdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 59vh;
+    height: 50vh;
+    position: absolute;
+    top: 347px;
+    left: 630px;
+}
+body{
+    background-image: url("https://researchresearch-news-wordpress-media-live.s3.eu-west-1.amazonaws.com/2020/02/coronavirus_red_blood_cells-738x443.jpg");
+}
+.login1{
+    height: 123vh;
+    width: 99vh;
+    position: absolute;
+    left:357px;
+    top:156px;
+}
+table,td,th,tr{
+    border:1px solid black;
+    border-collapse: collapse;
+    font-size: 12px;
+    text-align: center;
+}
+td,th{
+    padding: 6px;
+}
+#admin6{
+    margin:12px;
+    display: grid;
+    column-gap: 3px;
+    
+}
